@@ -24,5 +24,3 @@ txt.style.color="red"
         }
     })
 }
-
-
